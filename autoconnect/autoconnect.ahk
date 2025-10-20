@@ -3,7 +3,7 @@
 ; ==== Autojoin Loop for SCP:SL ====
 
 ; ===== CONFIG =====
-GAME_WINDOW_TITLE := "SCPSL"         ; The name of the SCPSL window
+GAME_WINDOW_TITLE := "SCPSL"         ; The name of the SCP:SL window
 COMMAND := "connect " ; Command to send
 RETRY_INTERVAL := 5                  ; Seconds between attempts
 ; ==================
